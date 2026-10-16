@@ -1,3 +1,6 @@
+
+🤖 **Built by the makers of [Agent!](https://github.com/AgentiLoop/Agent)**, an autonomous macOS agent.
+
 https://swift4.me is a code snippet side for Swift Programmers
 
 My site uses its own Web UI framework called MeshUI.
